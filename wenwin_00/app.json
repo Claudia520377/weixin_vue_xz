@@ -1,0 +1,17 @@
+{
+  "pages": [
+        "pages/product/product",
+        "pages/index/index",
+
+    "pages/shoplist/shoplist",
+
+    "pages/logs/logs"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff6600",
+    "navigationBarTitleText": "学子商城",
+    "navigationBarTextStyle": "white"
+  }
+}
